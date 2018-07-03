@@ -1,5 +1,7 @@
 # Ref: https://github.com/flask-restful/flask-restful/blob/master/docs/quickstart.rst
 # Re-edit by enterumum
+# untuk mengimplementasikan algoritma genetika maupun machine learning dengan RESTful API Python Flask Web, pada kasus sederhana
+
 from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
 import numpy as np
