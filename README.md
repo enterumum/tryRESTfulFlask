@@ -1,2 +1,2 @@
 # tryRESTfulFlask
-Contoh Project: Python Flask (Back End)+PHP
+Contoh Project: Python Flask Web (Back End)+PHP (Front End) 
