@@ -1,3 +1,5 @@
+# Ref: https://github.com/flask-restful/flask-restful/blob/master/docs/quickstart.rst
+# Re-edit by enterumum
 from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
 import numpy as np
